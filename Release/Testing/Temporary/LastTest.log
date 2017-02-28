@@ -1,0 +1,373 @@
+Start testing: Dec 02 18:35 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/marcin/Pulpit/AISDI/Release/tests/aisdiMapsTests"
+Directory: /home/marcin/Pulpit/AISDI/Release/tests
+"boostUnitTestsRun" start time: Dec 02 18:35 CET
+Output:
+----------------------------------------------------------
+Running 196 test cases...
+unknown location(0): fatal error in "GivenEmptyMap_WhenGettingIterators_ThenBeginEqualsEnd<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(64): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenGettingIterators_ThenBeginEqualsEnd<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(64): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenGettingIterator_ThenBeginIsNotEnd<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(76): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenGettingIterator_ThenBeginIsNotEnd<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(76): last checkpoint
+unknown location(0): fatal error in "GivenMapWithOnePair_WhenIterating_ThenPairIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenMapWithOnePair_WhenIterating_ThenPairIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostIncrementing_ThenPreviousPositionIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostIncrementing_ThenPreviousPositionIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreIncrementing_ThenNewPositionIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreIncrementing_ThenNewPositionIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreDecrementing_ThenNewIteratorValueIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreDecrementing_ThenNewIteratorValueIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostDecrementing_ThenOldIteratorValueIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostDecrementing_ThenOldIteratorValueIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(183): last checkpoint
+unknown location(0): fatal error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(183): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(195): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(195): last checkpoint
+unknown location(0): fatal error in "GivenConstIterator_WhenDereferencing_ThenItemIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(210): last checkpoint
+unknown location(0): fatal error in "GivenConstIterator_WhenDereferencing_ThenItemIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(210): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSearchingForKey_ThenEndIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(222): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSearchingForKey_ThenEndIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(222): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForMissingKey_ThenEndIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(234): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForMissingKey_ThenEndIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(234): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForKey_ThenItemIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(247): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForKey_ThenItemIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(247): last checkpoint
+unknown location(0): fatal error in "GivenMap_WhenInitializingFromListOfPairs_ThenAllItemsAreInMap<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenMap_WhenInitializingFromListOfPairs_ThenAllItemsAreInMap<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenDereferencing_ThenItemCanBeChanged<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenDereferencing_ThenItemCanBeChanged<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAddingItem_ThenItemIsInMap<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAddingItem_ThenItemIsInMap<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenChangingItem_ThenNewValueIsInMap<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenChangingItem_ThenNewValueIsInMap<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenCreatingCopy_ThenBothMapsAreEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenCreatingCopy_ThenBothMapsAreEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenCreatingCopy_ThenAllItemsAreCopied<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenCreatingCopy_ThenAllItemsAreCopied<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMovingToOther_ThenBothMapsAreEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMovingToOther_ThenBothMapsAreEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMovingToOther_ThenAllItemsAreMoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMovingToOther_ThenAllItemsAreMoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAssigningToOther_ThenOtherMapIsEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAssigningToOther_ThenOtherMapIsEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenAssigningToOther_ThenAllElementsAreCopied<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenAssigningToOther_ThenAllElementsAreCopied<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSelfAssigning_ThenNothingHappens<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSelfAssigning_ThenNothingHappens<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenSelfAssigning_ThenNothingHappens<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenSelfAssigning_ThenNothingHappens<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMoveAssigning_ThenBothMapsAreEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMoveAssigning_ThenBothMapsAreEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMoveAssigning_ThenAllElementsAreMoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMoveAssigning_ThenAllElementsAreMoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfMissingKey_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfMissingKey_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfAKey_ThenValueIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfAKey_ThenValueIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenChangingValueOfAKey_ThenValueIsChanged<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenChangingValueOfAKey_ThenValueIsChanged<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenRemovingValueByKey_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenRemovingValueByKey_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByWrongKey_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByWrongKey_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByKey_ThenItemIsRemoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByKey_ThenItemIsRemoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingValueByKey_ThenMapBecomesEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingValueByKey_ThenMapBecomesEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenErasingEnd_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenErasingEnd_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingItemByIterator_ThenItemIsRemoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingItemByIterator_ThenItemIsRemoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingItemByIterator_ThenMapBecomesEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingItemByIterator_ThenMapBecomesEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenTwoEmptyMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEmptyMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEqualMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEqualMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEquivalentMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEquivalentMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentValues_WhenComparingThem_ThenTheyAreNotEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentValues_WhenComparingThem_ThenTheyAreNotEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentKeys_WhenComparingThem_ThenTheyAreNotEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentKeys_WhenComparingThem_ThenTheyAreNotEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenGettingIterators_ThenBeginEqualsEnd<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(64): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenGettingIterators_ThenBeginEqualsEnd<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(64): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenGettingIterator_ThenBeginIsNotEnd<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(76): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenGettingIterator_ThenBeginIsNotEnd<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(76): last checkpoint
+unknown location(0): fatal error in "GivenMapWithOnePair_WhenIterating_ThenPairIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenMapWithOnePair_WhenIterating_ThenPairIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostIncrementing_ThenPreviousPositionIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostIncrementing_ThenPreviousPositionIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreIncrementing_ThenNewPositionIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreIncrementing_ThenNewPositionIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(88): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreDecrementing_ThenNewIteratorValueIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPreDecrementing_ThenNewIteratorValueIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostDecrementing_ThenOldIteratorValueIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenPostDecrementing_ThenOldIteratorValueIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(129): last checkpoint
+unknown location(0): fatal error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(183): last checkpoint
+unknown location(0): fatal error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(183): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(195): last checkpoint
+unknown location(0): fatal error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(195): last checkpoint
+unknown location(0): fatal error in "GivenConstIterator_WhenDereferencing_ThenItemIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(210): last checkpoint
+unknown location(0): fatal error in "GivenConstIterator_WhenDereferencing_ThenItemIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(210): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSearchingForKey_ThenEndIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(222): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSearchingForKey_ThenEndIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(222): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForMissingKey_ThenEndIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(234): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForMissingKey_ThenEndIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(234): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForKey_ThenItemIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(247): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenSearchingForKey_ThenItemIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(247): last checkpoint
+unknown location(0): fatal error in "GivenMap_WhenInitializingFromListOfPairs_ThenAllItemsAreInMap<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenMap_WhenInitializingFromListOfPairs_ThenAllItemsAreInMap<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenDereferencing_ThenItemCanBeChanged<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenIterator_WhenDereferencing_ThenItemCanBeChanged<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(269): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAddingItem_ThenItemIsInMap<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAddingItem_ThenItemIsInMap<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenChangingItem_ThenNewValueIsInMap<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenChangingItem_ThenNewValueIsInMap<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenCreatingCopy_ThenBothMapsAreEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenCreatingCopy_ThenBothMapsAreEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenCreatingCopy_ThenAllItemsAreCopied<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenCreatingCopy_ThenAllItemsAreCopied<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMovingToOther_ThenBothMapsAreEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMovingToOther_ThenBothMapsAreEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMovingToOther_ThenAllItemsAreMoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMovingToOther_ThenAllItemsAreMoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAssigningToOther_ThenOtherMapIsEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenAssigningToOther_ThenOtherMapIsEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenAssigningToOther_ThenAllElementsAreCopied<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenAssigningToOther_ThenAllElementsAreCopied<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSelfAssigning_ThenNothingHappens<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenSelfAssigning_ThenNothingHappens<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenSelfAssigning_ThenNothingHappens<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenSelfAssigning_ThenNothingHappens<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMoveAssigning_ThenBothMapsAreEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenMoveAssigning_ThenBothMapsAreEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMoveAssigning_ThenAllElementsAreMoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNonEmptyMap_WhenMoveAssigning_ThenAllElementsAreMoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(30): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfMissingKey_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfMissingKey_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfAKey_ThenValueIsReturned<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenReadingValueOfAKey_ThenValueIsReturned<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenChangingValueOfAKey_ThenValueIsChanged<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenChangingValueOfAKey_ThenValueIsChanged<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(441): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenRemovingValueByKey_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenEmptyMap_WhenRemovingValueByKey_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByWrongKey_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByWrongKey_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByKey_ThenItemIsRemoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingValueByKey_ThenItemIsRemoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingValueByKey_ThenMapBecomesEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingValueByKey_ThenMapBecomesEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenErasingEnd_ThenExceptionIsThrown<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenErasingEnd_ThenExceptionIsThrown<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingItemByIterator_ThenItemIsRemoved<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenNotEmptyMap_WhenRemovingItemByIterator_ThenItemIsRemoved<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingItemByIterator_ThenMapBecomesEmpty<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenSingleItemMap_WhenRemovingItemByIterator_ThenMapBecomesEmpty<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(479): last checkpoint
+unknown location(0): fatal error in "GivenTwoEmptyMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEmptyMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEqualMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEqualMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEquivalentMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoEquivalentMaps_WhenComparingThem_ThenTheyAreReportedAsEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentValues_WhenComparingThem_ThenTheyAreNotEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentValues_WhenComparingThem_ThenTheyAreNotEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentKeys_WhenComparingThem_ThenTheyAreNotEqual<i>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+unknown location(0): fatal error in "GivenTwoMapsWithDifferentKeys_WhenComparingThem_ThenTheyAreNotEqual<m>": std::runtime_error: TODO
+/home/marcin/Pulpit/AISDI/tests/TreeMapTests.cpp(551): last checkpoint
+
+*** 176 failures detected in test suite "aisdi_maps_tests"
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Failed.
+"boostUnitTestsRun" end time: Dec 02 18:35 CET
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 02 18:35 CET

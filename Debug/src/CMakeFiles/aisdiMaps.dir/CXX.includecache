@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcin/Pulpit/AISDI/src/HashMap.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+utility
+-
+vector
+-
+TreeMap.h
+-
+
+/home/marcin/Pulpit/AISDI/src/TreeMap.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+utility
+-
+iostream
+-
+
+/home/marcin/Pulpit/AISDI/src/main.cpp
+cstddef
+-
+cstdlib
+-
+string
+-
+TreeMap.h
+/home/marcin/Pulpit/AISDI/src/TreeMap.h
+HashMap.h
+/home/marcin/Pulpit/AISDI/src/HashMap.h
+
